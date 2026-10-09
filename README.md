@@ -1,8 +1,8 @@
 # Task 1 — Inconsistencies and duplicates
 
-**Name:** ______________________
+**Name:** lulwa mohamed dwedar
 
-**ID:** __-____
+**ID:** 58-8691
 
 ## Cleaning summary
 
